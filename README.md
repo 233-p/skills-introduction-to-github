@@ -41,6 +41,13 @@ If you'd like to make a profile README, use the quickstart instructions below or
 4. If you created a new branch for your file, open and merge a pull request on your branch.
 5. Lastly, we'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github).
 
+### Programming Problems / 编程练习
+
+This repository also includes programming problems for practice:
+
+- [Programming Problems Directory](./problems/) - 编程题目目录
+  - [Problem D Question 1 - D题问题1: Array Sum](./problems/problem-d/question-1/) - 数组求和
+
 Check out these resources to learn more or get involved:
 
 - Are you a student? Check out the [Student Developer Pack](https://education.github.com/pack).
